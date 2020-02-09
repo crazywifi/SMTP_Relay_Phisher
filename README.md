@@ -46,3 +46,15 @@ sudo apt install  libio-socket-ssl-perl  libdigest-hmac-perl  libterm-readkey-pe
                       libmime-lite-perl libfile-libmagic-perl libio-socket-inet6-perl
 cpan -i Net::DNS
 ```
+## Screenshots
+![Alt text](https://raw.githubusercontent.com/crazywifi/SMTP_Relay_Phisher/master/poc/1.PNG)
+![Alt text](https://raw.githubusercontent.com/crazywifi/SMTP_Relay_Phisher/master/poc/2.PNG)
+![Alt text](https://raw.githubusercontent.com/crazywifi/SMTP_Relay_Phisher/master/poc/3.PNG)
+![Alt text](https://raw.githubusercontent.com/crazywifi/SMTP_Relay_Phisher/master/poc/10.PNG)
+![Alt text](https://raw.githubusercontent.com/crazywifi/SMTP_Relay_Phisher/master/poc/4.PNG)
+![Alt text](https://raw.githubusercontent.com/crazywifi/SMTP_Relay_Phisher/master/poc/5.PNG)
+![Alt text](https://raw.githubusercontent.com/crazywifi/SMTP_Relay_Phisher/master/poc/11.PNG)
+![Alt text](https://raw.githubusercontent.com/crazywifi/SMTP_Relay_Phisher/master/poc/6.PNG)
+![Alt text](https://raw.githubusercontent.com/crazywifi/SMTP_Relay_Phisher/master/poc/7.PNG)
+![Alt text](https://raw.githubusercontent.com/crazywifi/SMTP_Relay_Phisher/master/poc/8.PNG)
+![Alt text](https://raw.githubusercontent.com/crazywifi/SMTP_Relay_Phisher/master/poc/9.png)
