@@ -1,7 +1,7 @@
 # SMTP_Relay_Phisher
 
 ## Overview
-SMTP Relay Phisher is a tool for testing and exploiting the "SMTP Open Relay" vulnerability by simulating real-world phishing attacks. 
+SMTP Relay Phisher is a tool for testing and exploiting the **SMTP Open Relay** vulnerability by simulating real-world phishing attacks. 
 This tool used for two purposes:
 
 1. To run the phishing campaign by command line 
