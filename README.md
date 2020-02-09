@@ -29,3 +29,20 @@ Recently, I am working on a Red Team activity, where I found SMTP open relay vul
 * This tool helps in a red team activity to run a phishing campaign by exploiting SMTP open relay.
 * This tool helps to validate the user by **RCPT TO**.
 
+## Note
+SMTP Relay Phisher is only to be used for legal applications when the explicit permission of the targeted organization has been obtained.
+
+## Installation
+Download the latest release from SMTP_Relay_Phisher on GitHub:
+```
+git clone https://github.com/crazywifi/SMTP_Relay_Phisher.git
+chmod +x custom-smtp-cli
+chmod +x SMTP_Relay_Phisher.py
+```
+### Dependencies
+```
+pip install -r requirements.txt
+sudo apt install  libio-socket-ssl-perl  libdigest-hmac-perl  libterm-readkey-perl \
+                      libmime-lite-perl libfile-libmagic-perl libio-socket-inet6-perl
+cpan -i Net::DNS
+```
