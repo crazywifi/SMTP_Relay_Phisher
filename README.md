@@ -56,5 +56,4 @@ cpan -i Net::DNS
 ![Alt text](https://raw.githubusercontent.com/crazywifi/SMTP_Relay_Phisher/master/poc/11.PNG)
 ![Alt text](https://raw.githubusercontent.com/crazywifi/SMTP_Relay_Phisher/master/poc/6.PNG)
 ![Alt text](https://raw.githubusercontent.com/crazywifi/SMTP_Relay_Phisher/master/poc/7.PNG)
-![Alt text](https://raw.githubusercontent.com/crazywifi/SMTP_Relay_Phisher/master/poc/8.PNG)
 ![Alt text](https://raw.githubusercontent.com/crazywifi/SMTP_Relay_Phisher/master/poc/9.png)
