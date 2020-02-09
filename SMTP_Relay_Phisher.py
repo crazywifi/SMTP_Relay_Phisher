@@ -29,23 +29,23 @@ END = '\033[0m'
 #{{user.lastname}} The target's last name
 #{{user.email}} The target's email address
 
-SMTP_Server = "smtp.gmail.com"
-Port = "587"
-User = "lazyhacker22@gmail.com"
-Password = "zecktvmcopmyyuuo"
-#Mail_From = "lazyhacker22@gmail.com"
-Mail_From = "info@kib.com.kw"
+SMTP_Server = ""
+Port = ""
+User = ""
+Password = ""
+#Mail_From = ""
+Mail_From = ""
 #"Display Name <add@re.ss>" Sender's name address (or address only).
-From = "Test Email"
-RCPT_TO = "rishabh2241991@gmail.com"
+From = ""
+RCPT_TO = ""
 #"Display Name <add@re.ss>"
-To = "rishabh2241991@gmail.com" 
-Subject = "Test Email From SMTP Relay Phisher"
+To = "" 
+Subject = ""
 #Plaintext and/or HTML body of the message If both are provided the message is sent as multipart.
 #<text|filename>
 Plain_Text_Body = "" 
 #<text|filename>
-Html_Body = "Email_Template.html"
+Html_Body = ""
 #Attach a given filename. MIME-Type of the attachment is guessed by default guessed but can optionally be specified after '@' delimiter. For instance: --attach mail.log@text/plain Parameter can be used multiple times.
 #<filename>[@<MIME/Type>]
 File_Attachement = "" 
