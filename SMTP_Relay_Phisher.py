@@ -102,7 +102,7 @@ def Mail_Send(Login_Details,User_CSV):
                         cmd = cmd+' | '+'tee -a emaillogs.txt'
                         os.system(cmd)
                         os.remove(temptemplate)
-                        time.sleep(Time)
+                        time.sleep(float(Time))
 
 
     else:
@@ -128,7 +128,7 @@ def Mail_Send(Login_Details,User_CSV):
                             cmd = cmd+' | '+'tee -a emaillogs.txt'
                             os.system(cmd)
                             os.remove(temptemplate)
-                            time.sleep(Time)
+                            time.sleep(float(Time))
 
                
 def Mail_Send_RCPT(Login_Details):
@@ -174,7 +174,7 @@ def User_Enum(User_CSV):
                 cmd = cmd+' | '+'tee -a userenumoutput.txt'
                 #print cmd
                 os.system(cmd)
-                time.sleep(Time)
+                time.sleep(float(Time))
         
 
 
