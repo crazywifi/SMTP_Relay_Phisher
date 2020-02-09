@@ -1,0 +1,6 @@
+python-csv
+colorama
+bs4
+argparse
+pyfiglet
+termcolor
