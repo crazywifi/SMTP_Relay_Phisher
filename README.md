@@ -41,7 +41,10 @@ chmod +x SMTP_Relay_Phisher.py
 ```
 ### Dependencies
 ```
+apt-get install python-pip
 pip install -r requirements.txt
+or
+pip2 install -r requirements.txt
 sudo apt install  libio-socket-ssl-perl  libdigest-hmac-perl  libterm-readkey-perl \
                       libmime-lite-perl libfile-libmagic-perl libio-socket-inet6-perl
 cpan -i Net::DNS
