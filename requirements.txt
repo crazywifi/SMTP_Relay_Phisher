@@ -4,3 +4,4 @@ bs4
 argparse
 pyfiglet
 termcolor
+lxml
